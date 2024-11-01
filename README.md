@@ -3,6 +3,7 @@
 Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor e QA dedicado a criar e automatizar soluções de qualidade. Minha paixão é usar **Python** e ferramentas como **Cypress** para otimizar processos e construir aplicações robustas. Além disso, compartilho o que aprendo no meu canal [DuranGames](https://www.youtube.com/c/DuranGames), onde exploro tecnologia, programação e automação!
 
 ---
+
 ### 📊 Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/GustavoDuranBR">
@@ -14,13 +15,19 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor e QA dedicado a criar e 
 ---
 
 ### 🚀 Habilidades e Ferramentas
+
 <div align="center">
-  <img align="center" alt="Duran-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Duran-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Duran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Duran-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Duran-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="center" alt="Duran-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
+  ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Cypress](https://img.shields.io/badge/cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+  ![Cucumber](https://img.shields.io/badge/cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+  ![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 </div>
 
 **Principais Competências:**
@@ -62,3 +69,4 @@ Explore os repositórios para ver como aplico minhas habilidades de QA e desenvo
 </div>
 
 ![Snake animation](https://github.com/GustavoDuranBR/GustavoDuranBR/blob/output/github-contribution-grid-snake.svg)
+
